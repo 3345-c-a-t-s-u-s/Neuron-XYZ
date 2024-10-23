@@ -7,6 +7,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-c-a-t-s-u-s/Neuron-XYZ/refs/heads/main/Install.lua"))()
 ```
 
-join [Neuron XYZ](https://discord.gg/wPaQZwhMHy). if you get kick "***Unsupported Version**" try inject in home page
-
-key system has 2 checkpoints (linkvertise) - (20hours)
+join [Neuron XYZ](https://discord.gg/wPaQZwhMHy). if you get kick "**Unsupported Version**" try inject in home page
